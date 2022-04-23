@@ -127,6 +127,14 @@ const Mintpage = () => {
           </div>
           <br />
           <h3 className="label_style">Price</h3>
+          <div className="PriceSwitch">
+            <div className="wax">
+                WAX
+            </div>
+            <div className="usd">
+                USD
+            </div>
+          </div>
         </div>
         <div className="filter-content">
           <h1>dsf</h1>

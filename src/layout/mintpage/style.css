@@ -56,3 +56,26 @@
 .css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
     color: white!important;
 }
+.PriceSwitch {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+.wax {
+    width: 50%;
+    border: 1px solid white;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px 0px 0px 5px;
+    color: white;
+}
+.usd {
+    width: 50%;
+    border: 1px solid white;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 0px 3px 3px 0px;
+    color: white;
+}
