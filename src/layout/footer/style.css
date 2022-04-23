@@ -1,0 +1,80 @@
+.footer-flex {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(180deg, #15030A 0%, rgba(100, 8, 29, 0.5) 46.15%, rgba(129, 7, 88, 0.3) 100%);
+box-shadow: inset 0px 15px 20px #4A0731;
+height: 315px;
+padding: 40px;
+}
+.master-intro {
+  width: 30%;
+}
+
+.bottom_logo {
+  width: 200px;
+}
+
+.logo-for-color {
+  color: white;
+}
+.logo-for-email {
+  color: white;
+}
+.shop-collection {
+  width: 10%;
+  color: white;
+}
+.artist-story {
+  width: 10%;
+  color: white;
+}
+.roadmap-faq {
+  width: 10%;
+  color: white;
+}
+.terms-condition {
+  width: 10%;
+  color: white;
+}
+.got-to-know {
+  width: 20%;
+}
+.got-to-know-font {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+.input-custom {
+  background: #200616;
+  border-radius: 5px;
+  width: 230px;
+  height: 35px;
+  border: none;
+  padding: 15px;
+}
+.subcribe {
+  background: linear-gradient(270deg, #a50c72 30.21%, #ee41b0 100%);
+  border-radius: 5px;
+padding: 10px 15px;
+border: none;
+color: white;
+
+}
+#subcribe {
+    display: flex;
+    gap: 75px;
+    justify-content: end;
+    margin-right: 150px;
+}
+.copyright_flex {
+  display: flex;
+  justify-content: center;
+  background: #4A0731;
+  padding: 15px;
+  color: white;
+  border-top: 1px solid;
+}

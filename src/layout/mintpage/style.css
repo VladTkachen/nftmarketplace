@@ -1,0 +1,58 @@
+.mint_flex {
+    display: flex;
+    justify-content: center;
+}
+.filter {
+    width: 25%;
+}
+.filter-content {
+    width: 30%;
+    text-align: justify;
+}
+.label_style {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border-color: #f8f9fa!important;
+    color: white;
+}
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+    color: white!important;
+}
+.css-1oybtu7-MuiInputBase-root-MuiOutlinedInput-root {
+    height: 50px;
+}
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+    color: white!important;
+}
+.css-bpeome-MuiSvgIcon-root-MuiSelect-icon {
+    color: white!important
+}
+.checkbox-style {
+    width: 30px;
+    height: 30px;
+    border: 0.3px solid white;
+    border-radius: 5px;
+}
+.checkbox-flex {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    width: 40%;
+}
+.checkbox-label {
+    color: white;
+    width: 50%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+}
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+    color: white!important;
+}

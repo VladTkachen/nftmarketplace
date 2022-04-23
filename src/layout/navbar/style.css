@@ -1,0 +1,39 @@
+.navbar_header {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
+.left_header {
+  display: flex;
+}
+.right_header {
+  display: flex;
+}
+.left_header > span {
+  margin: 30px;
+}
+.right_header > span {
+  margin: 30px;
+}
+.button_login {
+  background: linear-gradient(270deg, #a50c72 30.21%, #ee41b0 100%);
+  border-radius: 5px;
+  /* transform: matrix(1, 0, 0, -1, 0, 0); */
+  padding: 6px 36px;
+  border-radius: 5px;
+  /* width: 70%; */
+  margin-top: 25px !important;
+  border: none;
+}
+.button_login:hover {
+  cursor: pointer;
+}
+#coin {
+  width: 23px;
+  margin-top: -5px;
+}
+#estimate_underline {
+  text-decoration: none;
+  color: white;
+}
